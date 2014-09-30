@@ -1,0 +1,5 @@
+-- testar niklas skrivverktygsmerge-operation
+
+function()
+	nu funkar det enligt version 1
+end
